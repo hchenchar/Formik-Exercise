@@ -1,7 +1,7 @@
 # Formik-Exercise
 Project Description: This project creates a login form with validation using Formik including an email field, password field and submit button while implementing specific validation rules and specific details.
 
-How to Run: Save the file to your system by downloading the index.html file in this repository. After saving, drag and drop the file onto your browser. Once the page has loaded, enter an email and password before selecting the submit button to determine whether the login is successful.
+How to Run: Save the file to your system by downloading the App.js file in this repository. After saving, drag and drop the file onto your browser. Once the page has loaded, enter an email and password before selecting the submit button to determine whether the login is successful.
 
 Roadmap of Future Improvements: Looking ahead, I would like to include a "Remember Me" button that recalls past successful login information to make the process a bit smoother.
 
